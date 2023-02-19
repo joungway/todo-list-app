@@ -1,17 +1,14 @@
 # todo-list-app
 
 ### Features
-1 Defaulat route:
+1. Defaulat route:
 - The current date and month are displaied at the top
 - Allow users to add new items and will be shown on the list
 - Allow to check off the items in the list
-2 Work route:
+2. Work route:
 - add '/work' to navigte to the work route
 - a brand new work list is shown
 
-### Routes
-- Default route: http://localhost:3000
-- Work route: http://localhost:3000/work
 
 ### Tech Stack
 Front end built using:
