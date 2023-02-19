@@ -12,7 +12,7 @@
 ### Tech Stack
 Front end built using:
 > **EJS (Embedded JavaScript Templating)**
-> - EJS was chosen due to its ability to change certain parts of the HTML depending on the logic in the server
+> - EJS was chosen due to its ability to change certain parts of the HTML depending on the logic in the server<br>
 
 
 Back end built using:
