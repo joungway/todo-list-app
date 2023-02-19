@@ -27,5 +27,5 @@ Back end built using:
 
 
 ### Visual Representation
-![default_route](/assets/default_route.png)
-![work_route](/assets/work_route.png)
+![default_route](/assets/default_route.png) | width=100)
+![work_route](/assets/work_route.png) | width=100)
