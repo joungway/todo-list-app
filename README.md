@@ -24,3 +24,8 @@ Back end built using:
 > **MongoDB and Mongoose**
 > - Add and delete list items through the database
 > - Enable data persistence when restart the server
+
+
+### Visual Representation
+![default_route](/assets/default_route.png) | width=100)
+![work_route](/assets/work_route.png) | width=100)
