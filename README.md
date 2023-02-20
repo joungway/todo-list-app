@@ -29,3 +29,8 @@ Back end built using:
 ### Visual Representation
 ![default_route](/assets/default_route.png)
 ![work_route](/assets/work_route.png)
+
+
+### Instructions
+Use 'npm install' to install all necessary dependencies (ejs, body-parser, express, mongoose)
+Use 'nodemon app.js' to run the app in localhost
